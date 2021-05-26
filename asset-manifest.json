@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/seven-todo-localstorage/static/css/main.3d764748.chunk.css",
-    "main.js": "/seven-todo-localstorage/static/js/main.8bf8d565.chunk.js",
-    "main.js.map": "/seven-todo-localstorage/static/js/main.8bf8d565.chunk.js.map",
+    "main.css": "/seven-todo-localstorage/static/css/main.2b3418ef.chunk.css",
+    "main.js": "/seven-todo-localstorage/static/js/main.2247507e.chunk.js",
+    "main.js.map": "/seven-todo-localstorage/static/js/main.2247507e.chunk.js.map",
     "runtime-main.js": "/seven-todo-localstorage/static/js/runtime-main.e867907c.js",
     "runtime-main.js.map": "/seven-todo-localstorage/static/js/runtime-main.e867907c.js.map",
     "static/css/2.61b4cb56.chunk.css": "/seven-todo-localstorage/static/css/2.61b4cb56.chunk.css",
@@ -12,14 +12,14 @@
     "static/js/3.8faa0e19.chunk.js.map": "/seven-todo-localstorage/static/js/3.8faa0e19.chunk.js.map",
     "index.html": "/seven-todo-localstorage/index.html",
     "static/css/2.61b4cb56.chunk.css.map": "/seven-todo-localstorage/static/css/2.61b4cb56.chunk.css.map",
-    "static/css/main.3d764748.chunk.css.map": "/seven-todo-localstorage/static/css/main.3d764748.chunk.css.map",
+    "static/css/main.2b3418ef.chunk.css.map": "/seven-todo-localstorage/static/css/main.2b3418ef.chunk.css.map",
     "static/js/2.65d46978.chunk.js.LICENSE.txt": "/seven-todo-localstorage/static/js/2.65d46978.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e867907c.js",
     "static/css/2.61b4cb56.chunk.css",
     "static/js/2.65d46978.chunk.js",
-    "static/css/main.3d764748.chunk.css",
-    "static/js/main.8bf8d565.chunk.js"
+    "static/css/main.2b3418ef.chunk.css",
+    "static/js/main.2247507e.chunk.js"
   ]
 }
